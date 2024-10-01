@@ -9,3 +9,8 @@ This file should be placed inside `src/main/resources` folder
 #### input format
 Project: [Project Name] <br>
 [TaskName], [Duration in number of days], [Task Dependencies separated by comma]
+
+
+
+## Contributors
+- [Jackie Manalili-Software Engineer Programming Exam-Programming Exam ] (https://github.com/jackiemanalili/project-planner.git)
