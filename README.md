@@ -13,4 +13,4 @@ Project: [Project Name] <br>
 
 
 ## Contributors
-- [Jackie Manalili-Software Engineer Programming Exam-Programming Exam ] (https://github.com/jackiemanalili/project-planner.git)
+- [Jackie Manalili-Software Engineer-Programming Exam] (https://github.com/jackiemanalili/project-planner.git)
